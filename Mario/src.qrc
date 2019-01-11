@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/images/ground.png</file>
+        <file>src/images/walk.png</file>
+        <file>src/images/stop.png</file>
+        <file>src/images/brick.png</file>
+        <file>src/images/propBox.png</file>
+        <file>src/images/coin.png</file>
+        <file>src/images/spring.png</file>
+        <file>src/images/challengeDoor.png</file>
+        <file>src/images/enterChallenge.png</file>
+        <file>src/images/growDrug.png</file>
+        <file>src/images/growPlayerStop.png</file>
+        <file>src/images/growPlayerWalk.png</file>
+        <file>src/images/jumpDrug.png</file>
+        <file>src/images/recoverDrug.png</file>
+        <file>src/images/speedDrug.png</file>
+        <file>src/images/speedPlayerWalk.png</file>
+        <file>src/images/speedPlayerStop.png</file>
+        <file>src/images/jumpPlayerWalk.png</file>
+        <file>src/images/jumpPlayerStop.png</file>
+        <file>src/images/blood.png</file>
+        <file>src/images/count.png</file>
+        <file>src/images/drug.png</file>
+        <file>src/images/quit.png</file>
+        <file>src/images/start.png</file>
+        <file>src/images/title.png</file>
+        <file>src/images/loginBackpic.jpg</file>
+        <file>src/font/number.ttf</file>
+        <file>src/images/sky.png</file>
+        <file>src/images/sword.png</file>
+        <file>src/images/icon.ico</file>
+    </qresource>
+    <qresource prefix="/game">
+        <file>src/images/games/btn.png</file>
+        <file>src/images/games/new_pic.jpg</file>
+        <file>src/images/games/pic.jpg</file>
+        <file>src/images/games/6.png</file>
+        <file>src/images/games/9.jpg</file>
+        <file>src/images/games/pk.png</file>
+        <file>src/images/games/布.png</file>
+        <file>src/images/games/剪刀.png</file>
+        <file>src/images/games/石头.png</file>
+    </qresource>
+</RCC>

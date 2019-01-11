@@ -1,0 +1,14 @@
+#ifndef BACKGROUNDITEM_H
+#define BACKGROUNDITEM_H
+
+#include <QGraphicsPixmapItem>
+
+class BackgroundItem : public QGraphicsPixmapItem
+{
+public:
+    BackgroundItem(const QPixmap &pixmap, QGraphicsItem *parent = 0);
+    virtual QPainterPath shape() const;
+
+};
+
+#endif // BACKGROUNDITEM_H
